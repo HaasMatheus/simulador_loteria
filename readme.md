@@ -62,6 +62,10 @@ Batata    | R$ 7
 Macarrão  | R$ 8
 
 ## Imagens da tela
+tela 1: tela de abertura
+![tela 1](/imagens/tela1.png)
+tela 1: 6 números digitados 1 sorteado  
+![tela 1](/imagens/tela2.png)
 
 ## Referências
 * HTML: [Wikipedia](https://pt.wikipedia.org/wiki/HTML)
